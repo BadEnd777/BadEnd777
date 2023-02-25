@@ -6,7 +6,7 @@ I'm a Freelancer with **2** years of experience in *Website development*, *softw
 - **Languages:** JavaScript, HTML, CSS, C#
 - **Front-End:** React.js, Next.js, Vue.js, Tailwind, Chakra UI
 - **Back-End:** Node.js, Express.js
-- Databases: MongoDB, Firebase, Google Sheet
+- **Databases:** MongoDB, Firebase, Google Sheet
 - **Tools:** Github, Git, VS Code, VS Studio, Ngrok, Thunder Client
 
 ### 💼 Experience
