@@ -1,16 +1,27 @@
-### Hi there 👋
+## Ayo, I'm BadEnd 👋
 
+I'm a Freelancer with **2** years of experience in *Website development*, *software development tools* and *chatbots*. with a strong focus on creating the user experience easier and faster
+
+### 🚀 Skills
+- **Languages:** JavaScript, HTML, CSS, C#
+- **Front-End:** React.js, Next.js, Vue.js, Tailwind, Chakra UI
+- **Back-End:** Node.js, Express.js
+- Databases: MongoDB, Firebase, Google Sheet
+- **Tools:** Github, Git, VS Code, VS Studio, Ngrok, Thunder Client
+
+### 💼 Experience
+_Fastwork_
+
+Freelancer - Present
+
+- Developed multiple websites using React.js, Next.js, and Vue.js
+- Worked on software development projects using Node.js and Express.js
+- Created chatbots using express and integrated them with websites, Facebook Messenger and Line liff
+- Collaborated with clients to understand their needs and provided solutions that improved the user experience
+
+### 📫 Contact Me
+- **Email:** badend23@hotmail.com
+- **Discord:** [BadEnd#7777](https://discord.com/users/)
 <!--
-**BadEnd777/BadEnd777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **LinkedIn:**
 -->
