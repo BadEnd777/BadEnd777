@@ -21,7 +21,7 @@ Freelancer - Present
 
 ### 📫 Contact Me
 - **Email:** badend23@hotmail.com
-- **Discord:** [BadEnd#7777](https://discord.com/users/)
+- **Discord:** [BadEnd#6269](https://discord.com/users/1079117717090611260)
 <!--
 - **LinkedIn:**
 -->
