@@ -40,7 +40,7 @@ I'm a Freelancer with **2** years of experience in *Website development*, *softw
 
 
 ### 💼 Experience
-_Fastwork_
+**Fastwork**
 
 Freelancer - Present
 
