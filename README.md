@@ -42,12 +42,31 @@ I'm a Freelancer with **2** years of experience in *Website development*, *softw
 ### 💼 Experience
 **Fastwork**
 
-Freelancer - Present
+`Freelancer - Present`
 
 - Developed multiple websites using React.js, Next.js, and Vue.js
 - Worked on software development projects using Node.js and Express.js
 - Created chatbots using express and integrated them with websites, Facebook Messenger and Line liff
 - Collaborated with clients to understand their needs and provided solutions that improved the user experience
+
+### Github Stats
+<p align="center">
+<table>
+<tr>
+  
+  <td>
+  <a href="https://github.com/BadEnd777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BadEnd777&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  </a>
+  </td>
+    
+  <td> 
+<a href="https://github.com/BadEnd777"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadEnd777&layout=compact&theme=tokyonight&hide_border=true" height="180rem"/></a>
+  </td>
+    
+</tr>
+</table>
+</p>
 
 ### 📫 Connect with Me
 - **Email:** badend23@hotmail.com
