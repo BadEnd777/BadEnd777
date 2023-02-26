@@ -1,6 +1,6 @@
 ## Ayo, I'm BadEnd 👋
 
-I'm a Freelancer with **2** years of experience in *Website development*, *software development tools* and *chatbots*. with a strong focus on creating the user experience easier and faster
+I'm a Freelancer with **2** years of experience in *Website development*, *software development tools* and *chatbots*. with a strong focus on creating the user experience easier and faster.
 
 ### 🚀 Skills
 - **Languages:**
