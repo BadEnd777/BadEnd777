@@ -38,7 +38,6 @@ I'm a Freelancer with **2** years of experience in *Website development*, *softw
   ![ngrok](https://img.shields.io/badge/-ngrok-blueviolet?style=flat-square&logo=ngrok&logoColor=white)
   ![Thunder Client](https://img.shields.io/badge/-Thunder_Client-blue?style=flat-square&logo=thunderbird&logoColor=white)
 
-
 ### 💼 Experience
 **Fastwork**
 
