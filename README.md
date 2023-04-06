@@ -21,7 +21,8 @@ I'm a Freelancer with **2** years of experience in *Website development*, *softw
   
 - **Back-End:**
 
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node-dot-js&logoColor=white)
+  ![Fastify](https://img.shields.io/badge/-Fastify-202020?style=flat-square&logo=fastify&logoColor=white)
+  ![GoFiber](https://img.shields.io/badge/-GoFiber-00ADD8?style=flat-square&logo=gofiber&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express&logoColor=white)
   
 - **Databases:**
