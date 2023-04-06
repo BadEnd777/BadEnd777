@@ -9,6 +9,7 @@ I'm a Freelancer with **2** years of experience in *Website development*, *softw
   ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
   
 - **Front-End:**
 
