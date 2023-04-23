@@ -19,10 +19,10 @@ I'm a Freelancer with **2** years of experience in *Website development*, *softw
     ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
     ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
     ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
     ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
     ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
     ![Go Fiber](https://img.shields.io/badge/-Go%20Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
   
 - **Services & Tools:**
 
