@@ -1,4 +1,4 @@
-## Ayo, I'm BadEnd 👋
+## Ayo, I'm BadEnd 👋 [![](https://visitcount.itsvg.in/api?id=BadEnd777&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 Hey there, I'm **BadEnd** - a passionate full stack developer based in Thailand. I'm all about crafting exceptional websites, applications, and more. I stay up-to-date with the latest technologies and trends to keep my skills sharp and my projects cutting-edge.
 
