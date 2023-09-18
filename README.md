@@ -86,4 +86,3 @@ I am dedicated to creating seamless digital experiences and turning ideas into r
 - **Email:** [badend23@hotmail.com](mailto:badend23@hotmail.com)
 - **Discord:** [pyyupsk_](https://discord.com/users/1079117717090611260)
 - **Instagram:** [pyyupsk_](https://www.instagram.com/pyyupsk_/)
-- **LinkedIn:** [badend777](https://www.linkedin.com/in/badend777/)
