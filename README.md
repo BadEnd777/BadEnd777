@@ -11,8 +11,11 @@ I am dedicated to creating seamless digital experiences and turning ideas into r
 - **Languages:**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
   ![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+  ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
   ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
@@ -83,6 +86,4 @@ I am dedicated to creating seamless digital experiences and turning ideas into r
 
 ### 📫 Contact Me
 
-- **Email:** [badend23@hotmail.com](mailto:badend23@hotmail.com)
-- **Discord:** [pyyupsk_](https://discord.com/users/1079117717090611260)
-- **Instagram:** [pyyupsk_](https://www.instagram.com/pyyupsk_/)
+- **Email:** [badend777@proton.me](mailto:badend23@hotmail.com)
