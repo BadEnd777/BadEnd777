@@ -52,29 +52,6 @@ I am dedicated to creating seamless digital experiences and turning ideas into r
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=Visual%20Studio)
   ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
-### 💼 Work Experience
-
-- **Freelance** \
-   _`2023 - Present`_ \
-   📍 **Fastwork**
-
-  - Develop and maintain websites and web applications for clients.
-  - Work with clients to determine project requirements and specifications.
-  - Collaborate with designers to create responsive user interfaces.
-  - Implement SEO best practices to improve search engine rankings.
-  - Optimize websites and web applications for speed and performance.
-  - Created chatbots using express and integrated them with websites, Facebook Messenger and Line liff.
-  - Provide technical support and troubleshooting for websites and web applications.
-
-- **Software Enginee** \
-   _`2021 - 2023`_ \
-   📍 **Vacant**
-
-  - Developed Software Development Kit (SDK) for a game in C# called "VRChat".
-  - Developed a website for the company using Next.js and Chakra UI.
-  - Integrated the website with the company's Discord server.
-  - Created a Discord bot using discord.js to manage the company's Discord server.
-
 ### 📈 Stats
 
 <table>
