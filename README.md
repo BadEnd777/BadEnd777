@@ -59,7 +59,7 @@ Exploring **Go** and sharpening my skills in **TypeScript**.
 
 ### 🚀 Featured Projects
 
-- [Personal Website](https://github.com/BadEnd777/Personal-Website): My personal website built with Next.js and Chakra UI.
+- [Personal Website](https://github.com/BadEnd777/Personal-Website): My personal website built with SolidJS, TypeScript, Vite, and Tailwind CSS.
 - [Chat Bridge](https://github.com/BadEnd777/Chat-Bridge): An npm package than makes it easier to integrate Facebook Page webhook to your Node.js application.
 - [VRConnectivity Shield](https://github.com/BadEnd777/VRConnectivity-Shield): DNS blocking tool to prevent VRChat analytics and tracking.
 - [TikTok Harbor](https://github.com/BadEnd777/TikTok-Harbor): Free online tool to download TikTok videos / slideshows without watermark.
